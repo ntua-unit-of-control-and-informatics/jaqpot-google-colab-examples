@@ -1,0 +1,11 @@
+smiles,cat_col,temperature,activity
+CC,high,36,80.0
+CCO,high,24,81.0
+CCC,high,28,81.0
+CCCl,high,32,84.0
+CCBr,high,28,83.5
+COC,low,22,83.0
+CCOCC,low,20,89.0
+CCCO,low,23,90.0
+CCCC,low,21,91.0
+CCCCCC,low,35,97.0
